@@ -1,5 +1,6 @@
 # EzCNC
  New cnc/laser engraver firmware from scratch with cmsis rtos v2
+It uses usb and cmsis rtos v2 middleware provided by the stm32cubeide
 
 The project was started fairly recently so currently the code is very experimental - acceleration, endstops and abort function aren't implemented.
 A lot of mcode and gcode aren't implement also.
